@@ -1,0 +1,25 @@
+
+
+Error log timestamp 3/27/2017 10:54:26
+
+The registers were:
+EIP =  0x1001b8b7
+ESP =  0x0018fc40
+EBP =  0x0018fc54
+EAX =  0x02e0922c
+EBX =  0x0018fd84
+ECX =  0x00000000
+EDX =  0x02c794a8
+EDI =  0x02e09204
+ESI =  0xeb47a2c8
+CS  =  0x00000023
+DS  =  0x0000002b
+ES  =  0x0000002b
+SS  =  0x0000002b
+End Registers 
+
+
+
+Error log timestamp 3/27/2017 10:54:26
+Message 1001: 
+a non-continuable protection violation has occurred. Check ERROR.LOG file.
